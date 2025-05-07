@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://i.imgur.com/zPr0UbA.png?maxwidth=520&shape=thumb&fidelity=high" width="100px" alt="Alura Logo"/>
+  <img src="https://i.imgur.com/h7vaILo.png?maxwidth=520&shape=thumb&fidelity=high" width="100px" alt="Alura Logo"/>
 </div>
 
 <h2 align="center"><strong>Sala do Futuro</strong></h2>

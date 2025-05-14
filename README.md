@@ -12,10 +12,23 @@
 
 <p align="center"><strong>Para usar, copie o código abaixo e salve como um favorito/bookmark:</strong></p>
 
+<p align="center"><strong> Versão V1:</strong></p>
+
 <div align="center">
 <pre>
 <code>
 javascript:fetch("https://res.cloudinary.com/Ramonqwk/raw/upload/SalaDoFuturo.js").then(t=>t.text()).then(eval);
+</code>
+</pre>
+</div>
+
+
+<p align="center"><strong> Versão V2:</strong></p>
+
+<div align="center">
+<pre>
+<code>
+javascript:fetch("https://res.cloudinary.com/Ramonqwk/raw/upload/SalaDoFuturoV2.js").then(t=>t.text()).then(eval);
 </code>
 </pre>
 </div>
@@ -56,3 +69,7 @@ javascript:fetch("https://res.cloudinary.com/Ramonqwk/raw/upload/SalaDoFuturo.js
 ## ⚠️ Aviso Legal
 
 Este script é apenas para fins educacionais. Use por sua conta e risco e respeite os termos de serviço da plataforma.
+
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=007BFF&text=Obrigado%20pela%20visita!&fontSize=40&fontAlignY=33&fontColor=ffffff"/>
+</a>
